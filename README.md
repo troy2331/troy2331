@@ -11,3 +11,6 @@ UPA, 2021년 해양수산 빅데이터 분석 경진대회 2021. 08. 20 - 2021. 
 # Career  
 아주대학교 산업공학과 2017. 03. 02 ~  2023. 02 (졸업 예정)  
 Crescom 이미지 데이터 연구 개발 2022. 03. 02 ~ 2022. 06. 29  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=troy2331&show_icons=true&theme=radical)
