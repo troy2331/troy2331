@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**troy2331/troy2331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contest Code
+## UPA(울산항만공사) 해양수산 빅데이터 분석 경진대회 2021. 08. 21 ~ 2021. 08. 23
+1. 선적 경로 및 소요시간 예측을 통한 물류 신사업 모델 제안 
+2. 우수상 수상 
 
-Here are some ideas to get you started:
+## [DACON] NH투자증권 빅데이터 경진대회 2021. 08. 31 ~ 2021. 11. 26
+1. 예선 : 주식 보유 기간 예측 Public Score 1st , Private Score 1st
+2. 본선 : 인사이트를 바탕으로 한 비즈니스 모델 제안 2st 
+3. 우수상 및 특전 수상 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 현대중공업 빅데이터 경진대회 2022. 01. 14 ~ 2022. 02. 14
+1. 과제1 : Classification 성능 개선 문제
+2. 과제2 : OCR 성능 개선 문제 
+3. 장려상 수상 
