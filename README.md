@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Portfolio  
-https://www.notion.so/522c41054a3b4535b6bb84b714d63810 
+https://wiry-coal-c25.notion.site/522c41054a3b4535b6bb84b714d63810
 
 # Awards
 [현대중공업그룹] 제2회 Big data/AI 대학생 경진대회 2022. 01. 24 - 2022. 02. 18.  🏆 장려상  
