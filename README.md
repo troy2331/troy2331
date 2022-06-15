@@ -1,4 +1,3 @@
-### Hi there 👋
 # Portfolio  
 https://wiry-coal-c25.notion.site/522c41054a3b4535b6bb84b714d63810
 
